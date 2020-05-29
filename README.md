@@ -86,48 +86,39 @@ While the budget would inevitably increase. From the Data, it is likely that a h
 Upon reviewing of our analysis, we determined that Microsoft should create a movie saga based on Halo Franchise for the following reasons.
 
 ## 1. Ratings have a weak relationship with Average Gross Revenue.
+There is a very weak relationship between Ratings and Average Gross Revenue. This means that just because a movie is positively rated doesnt necessarily indicate it will be profitable. 
 ![Fig1](/IMAGES/1_Rating_V_Gross.png)
 ![Fig2](/IMAGES/2_Corr_HM.png)
 
 
-## 2. ROI v Year
-![Fig3](/IMAGES/3_ROI v Year.png)
 
 
-## Movie Revenue v Budget by Years
-![Fig4](/IMAGES/3-5_ MovieRevenuevBudgetbyYears.png)
 
-## Top Actors
+## 2. Movie Revenue v Budget by Years
+![Fig4](/IMAGES/3-5_MovieRevenuevBudgetbyYears.png)
 
-![Fig5](/IMAGES/4_Top25Actors.png)
+
 
 ## Genre
-
-![Fig6](/IMAGES/5_Genre Analysis.png)
+We wanted to find out what the popular genres in the movie industry are today. By comparing the descriptive statistics of each of the genres, plotted over Average Gross Revenue, we were able to see that the three franchises with the highest gross were Action, Adventure, and Animation.
+![Fig6](/IMAGES/5_GenreAnalysis.png)
 
 ![Fig7](/IMAGES/6_Genrelast10.png)
 
-## Director
-![Fig8](/IMAGES/7_DirGross.png)
-
-![Fig9](/IMAGES/8_DirROI.png)
 
 
-## 2. Highest lifetime gross  Genres Action, Adventure, Sci-Fi.
 
-We wanted to find out what the popular genres in the movie industry are today. By comparing the descriptive statistics of each of the genres, plotted over Adjusted Lifetime Gross, we were able to see that the three franchises with the highest gross were Action, Adventure, and Animation.
-
-![BoxPlot](/images/realbox.png)
 
 
 ## 3. Hiring accomplished Actors and Directors has a positive trend on Gross Income.
 While the relationship between big name actors, top directors and high grossing films might seem commensense, we present statistical evidence that demonstrates there is a positive relationship between the two. 
 
-* Interesting insight, while the top grossing movies were directed by men, recent data from TMDB points that the average popular director is female
 
-![Actor Bar Chart](/images/brcht_actors_alg.png)
+![Fig5](/IMAGES/4_Top25Actors.png)
 
-![Directors Bar Chart](/images/brcht_dIrector_ALG.png)
+![Fig8](/IMAGES/7_DirGross.png)
+
+![Fig9](/IMAGES/8_DirROI.png)
 
 
 # Next Steps
