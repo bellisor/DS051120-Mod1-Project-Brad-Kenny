@@ -95,7 +95,7 @@ There is a very weak relationship between Ratings and Average Gross Revenue. Thi
 
 
 ## 2. Movie Revenue v Budget by Years
-![Fig4](/IMAGES/3-5_MovieRevenuevBudgetbyYears.png)
+![Fig4](/IMAGES/3-5_ MovieRevenuevBudgetbyYears.png)
 
 
 
