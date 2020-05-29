@@ -87,6 +87,9 @@ Upon reviewing of our analysis, we determined that Microsoft should create a mov
 
 ## 1. Ratings have a weak relationship with Average Gross Revenue.
 There is a very weak relationship between Ratings and Average Gross Revenue. This means that just because a movie is positively rated doesnt necessarily indicate it will be profitable. 
+
+
+
 ![Fig1](/IMAGES/1_Rating_V_Gross.png)
 ![Fig2](/IMAGES/2_Corr_HM.png)
 
@@ -94,13 +97,17 @@ There is a very weak relationship between Ratings and Average Gross Revenue. Thi
 
 
 
-## 2. Movie Revenue v Budget by Years
+## 2. Movie Revenue is trending upwards*
+We found that movie revenue over the last two decades has steadily increased. Recent Covid-19 pandemic has likely hurt box office sales.
+
 ![Fig4](/IMAGES/3-5_ MovieRevenuevBudgetbyYears.png)
 
 
 
-## Genre
-We wanted to find out what the popular genres in the movie industry are today. By comparing the descriptive statistics of each of the genres, plotted over Average Gross Revenue, we were able to see that the three franchises with the highest gross were Action, Adventure, and Animation.
+## 3. Action, Adventure, and Animation films tend to do well.
+We wanted to find out what the popular genres in the movie industry are today. By comparing the descriptive statistics of each of the genres, plotted over Average Gross Revenue, we were able to see that the three genres with the highest gross were Action, Adventure, and Animation.
+
+
 ![Fig6](/IMAGES/5_GenreAnalysis.png)
 
 ![Fig7](/IMAGES/6_Genrelast10.png)
@@ -110,7 +117,7 @@ We wanted to find out what the popular genres in the movie industry are today. B
 
 
 
-## 3. Hiring accomplished Actors and Directors has a positive trend on Gross Income.
+## 4. Hiring accomplished Actors and Directors has a positive trend on Gross Income.
 While the relationship between big name actors, top directors and high grossing films might seem commensense, we present statistical evidence that demonstrates there is a positive relationship between the two. 
 
 
